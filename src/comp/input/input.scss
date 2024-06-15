@@ -1,0 +1,23 @@
+.custom_input_box{
+   
+    align-items: center;
+    display: flex;
+    .prefix_icon{
+
+        background-color:#F2F4F2;
+        display: inline-block;
+        height:35px;
+        padding: 8.4px;;
+        border-radius:8px 0px 0px 8px;
+        color:black;
+    }
+    
+    .custom_input{
+        border-radius:0px 8px 8px 0px;
+        width:200px;
+    
+    }
+
+
+    
+}
